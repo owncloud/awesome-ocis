@@ -22,9 +22,14 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 
 * [3D Model Viewer](https://github.com/saw-jan/web-app-3dmodel-viewer) - View 3D models based on [three.js](https://threejs.org)
 * [Arcade](https://github.com/fschade/ocis-arcade) - Play NES games based on [nes-vue](https://github.com/taiyuuki/nes-vue)
-* [Dicom Viewer](https://github.com/owncloud/web-app-dicom-viewer) - Preview medical images based on [Cornerstone3D](https://www.cornerstonejs.org) 
+* [Dicom Viewer](https://github.com/owncloud/web-app-dicom-viewer) - Preview medical images based on [Cornerstone3D](https://www.cornerstonejs.org)
+* [Draw.io](https://github.com/owncloud/web/tree/master/packages/web-app-draw-io) - View and edit [draw.io](https://www.draw.io) diagrams
+* [EPub Reader](https://github.com/owncloud/web/tree/master/packages/web-app-epub-reader) - Read eBooks in .epub format using [epub.js](https://github.com/futurepress/epub.js)
 * [GPX Viewer](https://github.com/dschmidt/web-app-gpx-viewer) - Render GPX files in a map view with [Leaflet](https://leafletjs.com)
+* [PDF Viewer](https://github.com/owncloud/web/tree/master/packages/web-app-pdf-viewer) - Read PDFs utilizing native browser pdf rendering 
 * [Presentation Viewer](http://github.com/JankariTech/web-app-presentation-viewer) - Render markdown presentations with [reveal.js](https://revealjs.com)
+* [Preview](https://github.com/owncloud/web/tree/master/packages/web-app-preview) - View images, watch videos and listen to audio files
+* [Text Editor](https://github.com/owncloud/web/tree/master/packages/web-app-text-editor) - Edit markdown and plain text file types using [TOAST UI Editor](https://ui.toast.com/tui-editor) 
 
 ### File Actions
 
