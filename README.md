@@ -3,8 +3,8 @@
 An opinionated list of awesome [ownCloud Infinite Scale](https://github.com/owncloud/ocis) apps, extensions, services and other resources.
 
 ## Attention please!
-While we are proud to present you these resources, we can't give any guarantees that they will work for you or that they will be stable.
-Feel free to open issues in the respective, linked repositories or contribute to the projects in any other way.
+
+> :warning: While we are proud to present you these resources, we can't give any guarantees that they will work for you or that they will be stable. Feel free to open issues in the respective, linked repositories or contribute to the projects in any other way.
 
 If you'd like to contribute to this list, please feel free to make a pull request. 
 
@@ -15,7 +15,12 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 
 ---
 
-## ownCloud Web Apps and Extensions
+## ownCloud Apps and Extensions
+
+Please follow the steps provided in our [developer documentation](https://owncloud.dev/services/web/#web-apps) if you want to install any of the
+following apps and extensions. For some of them there are released artifacts, others still need to be built from source code.
+
+> :information_source: The app and extension installation as described in the developer documentation linked above is available in `oCIS v5.1.0` or later. 
 
 ### Viewers & Editors
 
