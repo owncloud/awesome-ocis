@@ -12,6 +12,7 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 
 * [Viewers & Editors](#viewers--editors)
 * [File Actions](#file-actions)
+* [File Sidebar Panels](#file-sidebar-panels)
 
 ---
 
@@ -20,7 +21,7 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 Please follow the steps provided in our [developer documentation](https://owncloud.dev/services/web/#web-apps) if you want to install any of the
 following apps and extensions. For some of them there are released artifacts, others still need to be built from source code.
 
-> :information_source: The app and extension installation as described in the developer documentation linked above is available in `oCIS v5.1.0` or later. 
+> :information_source: The app and extension installation as described in the developer documentation linked above is available in `oCIS v6.0.0` or later. 
 
 ### Viewers & Editors
 
@@ -39,3 +40,8 @@ following apps and extensions. For some of them there are released artifacts, ot
 ### File Actions
 
 * [Cast](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-cast) - Send images and videos from your ownCloud to your Chrome Cast.
+
+### File Sidebar Panels
+
+* [Audio Information](https://github.com/owncloud/web/blob/2137305f8ded7f845dc262c424b196742c76c9a0/packages/web-app-files/src/composables/extensions/useFileSideBars.ts#L166) - See audio file information like duration, author or title
+* [EXIF / Image Information](https://github.com/owncloud/web/blob/2137305f8ded7f845dc262c424b196742c76c9a0/packages/web-app-files/src/composables/extensions/useFileSideBars.ts#L145) - See EXIF information of photos
