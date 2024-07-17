@@ -13,6 +13,7 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 * [Viewers & Editors](#viewers--editors)
 * [File Actions](#file-actions)
 * [File Sidebar Panels](#file-sidebar-panels)
+* [Global Progress Bars](#global-progress-bars)
 
 ---
 
@@ -45,3 +46,7 @@ following apps and extensions. For some of them there are released artifacts, ot
 
 * [Audio Information](https://github.com/owncloud/web/blob/2137305f8ded7f845dc262c424b196742c76c9a0/packages/web-app-files/src/composables/extensions/useFileSideBars.ts#L166) - See audio file information like duration, author or title
 * [EXIF / Image Information](https://github.com/owncloud/web/blob/2137305f8ded7f845dc262c424b196742c76c9a0/packages/web-app-files/src/composables/extensions/useFileSideBars.ts#L145) - See EXIF information of photos
+
+### Global Progress Bars
+
+* [Nyan Cat](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars) - A JS+CSS only Nyan Cat progress bar for the global loading state. 
