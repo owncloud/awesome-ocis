@@ -30,7 +30,7 @@ following apps and extensions. For some of them there are released artifacts, ot
 * [3D Model Viewer](https://github.com/saw-jan/web-app-3dmodel-viewer) - View 3D models based on [three.js](https://threejs.org)
 * [Arcade](https://github.com/fschade/ocis-arcade) - Play NES games based on [nes-vue](https://github.com/taiyuuki/nes-vue)
 * [Dicom Viewer](https://github.com/owncloud/web-app-dicom-viewer) - Preview medical images based on [Cornerstone3D](https://www.cornerstonejs.org)
-* [Draw.io](https://github.com/owncloud/web/tree/master/packages/web-app-draw-io) - View and edit [draw.io](https://www.draw.io) diagrams
+* [Draw.io](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-draw-io) - View and edit [draw.io](https://www.draw.io) diagrams
 * [EPub Reader](https://github.com/owncloud/web/tree/master/packages/web-app-epub-reader) - Read eBooks in .epub format using [epub.js](https://github.com/futurepress/epub.js)
 * [GPX Viewer](https://github.com/dschmidt/web-app-gpx-viewer) - Render GPX files in a map view with [Leaflet](https://leafletjs.com)
 * [PDF Viewer](https://github.com/owncloud/web/tree/master/packages/web-app-pdf-viewer) - Read PDFs utilizing native browser pdf rendering 
