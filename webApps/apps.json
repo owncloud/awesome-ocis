@@ -1,0 +1,79 @@
+{
+  "apps": [
+    {
+      "id": "com.github.owncloud.web-extensions.draw-io",
+      "name": "Draw.io",
+      "subtitle": "View and edit draw.io diagram files (.drawio).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/draw-io-v0.1.0/draw-io-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud GmbH",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["editor", "diagram"],
+      "resources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-draw-io"
+        }
+      ]
+    },
+    {
+      "id": "com.github.owncloud.web-extensions.external-sites",
+      "name": "External Sites",
+      "subtitle": "Add links to the app switcher (embedded or external).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/external-sites-v0.1.0/external-sites-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["navigation", "app-switcher"],
+      "resources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-external-sites"
+        }
+      ]
+    },
+    {
+      "id": "com.github.owncloud.web-extensions.progress-bars",
+      "name": "Progress Bars",
+      "subtitle": "A collection of progress bars for users to choose from.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/progress-bars-v0.1.0/progress-bars-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["progress-bar"],
+      "resources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars"
+        }
+      ]
+    }
+  ]
+}
