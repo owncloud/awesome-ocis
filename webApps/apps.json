@@ -18,9 +18,35 @@
         }
       ],
       "tags": ["editor", "diagram"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/1.png",
+          "caption": "Edit draw.io files in your ownCloud"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/2.png",
+          "caption": "Create new draw.io files from your file list"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/3.png",
+          "caption": "An official draw.io example diagram"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/4.png",
+          "caption": "An official draw.io example diagram"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/5.png",
+          "caption": "An official draw.io example diagram"
+        }
+      ],
       "resources": [
         {
           "label": "GitHub",
+          "icon": "github",
           "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-draw-io"
         }
       ]
@@ -43,10 +69,55 @@
         }
       ],
       "tags": ["navigation", "app-switcher"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/external-sites/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/external-sites/screenshots/1.png",
+          "caption": "Wikipedia embedded into your ownCloud"
+        }
+      ],
       "resources": [
         {
           "label": "GitHub",
+          "icon": "github",
           "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-external-sites"
+        }
+      ]
+    },
+    {
+      "id": "com.github.owncloud.web-extensions.json-viewer",
+      "name": "JSON Viewer",
+      "subtitle": "View JSON files (.json) with syntax highlighting and collapsible nodes.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/json-viewer-v0.1.0/json-viewer-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["viewer"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/json-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/json-viewer/screenshots/1.png",
+          "caption": "View JSON files in your ownCloud"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-json-viewer"
         }
       ]
     },
@@ -68,9 +139,23 @@
         }
       ],
       "tags": ["progress-bar"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/screenshots/1.png",
+          "caption": "Nyan Cat progress bar"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/screenshots/2.png",
+          "caption": "User settings"
+        }
+      ],
       "resources": [
         {
           "label": "GitHub",
+          "icon": "github",
           "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars"
         }
       ]
