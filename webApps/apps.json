@@ -17,7 +17,7 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["editor", "diagram"],
+      "tags": ["editor", "viewer", "diagram"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/cover.png"
       },
@@ -138,7 +138,7 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["progress-bar"],
+      "tags": ["design", "fun"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/cover.png"
       },
