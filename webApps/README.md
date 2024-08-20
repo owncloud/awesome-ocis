@@ -11,7 +11,7 @@ If you want to add your own app feel free to make a pull request in this reposit
 
 ## Assets of your app
 
-We currently support to have a cover image and screenshots for each app.
+We currently support having a cover image and screenshots for each app.
 
 ### Image formats
 
