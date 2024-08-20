@@ -31,7 +31,7 @@ hosts only one app we don't include the app name in the path.
 
 ### Licensing
 
-Please make sure that the assets you add to this repo have a license that allows us to use keep them in this repository 
+Please make sure that the assets you add to this repo have a license that allows us to keep them in this repository 
 and to show them in the ownCloud Web App Store. If you are not sure about the license of an asset, please do not add it.
 
 ## Downloadable app versions
