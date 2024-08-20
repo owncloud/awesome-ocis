@@ -159,6 +159,45 @@
           "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars"
         }
       ]
+    },
+    {
+      "id": "com.github.owncloud.web-extensions.unzip",
+      "name": "Unzip",
+      "subtitle": "Unzip .zip files to the current folder, directly in your ownCloud.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.1.0/unzip-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["file-management", "file-action"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/screenshots/1.png",
+          "caption": "Unzip a .zip file in your ownCloud"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/screenshots/2.png",
+          "caption": "Browse the unzipped archive"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-unzip"
+        }
+      ]
     }
   ]
 }
