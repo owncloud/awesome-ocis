@@ -41,6 +41,7 @@ following apps and extensions. For some of them there are released artifacts, ot
 ### File Actions
 
 * [Cast](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-cast) - Send images and videos from your ownCloud to your Chrome Cast.
+* [Unzip](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-unzip) - Unzip .zip files directly into the current folder.
 
 ### File Sidebar Panels
 
