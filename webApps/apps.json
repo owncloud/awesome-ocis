@@ -362,5 +362,53 @@
         }
       ]
     }
+    ,
+    {
+      "id": "com.github.owncloud.web-app-dicom-viewer",
+      "name": "DICOM Viewer",
+      "subtitle": "Preview DICOM files (.dcm) – both the medical images and their corresponding metadata.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0"",
+          "url": "https://github.com/owncloud/web-app-dicom-viewer/releases/download/1.0.0/dicom-viewer-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["viewer", "dicom", "medical images", "metadata"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/1.png",
+          "caption": "Preview a DICOM file and it's most important meta data"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/2.png",
+          "caption": "Display all corresponding metadata in sidebar"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/2.png",
+          "caption": "Preview a DICOM file and it's most important meta data on a mobile device"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/2.png",
+          "caption": "Display all corresponding metadata on a mobile device"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/owncloud/web-app-dicom-viewer"
+        }
+      ]
+    }
   ]
 }
