@@ -7,7 +7,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/draw-io-v0.2.0/draw-io-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/draw-io-v0.1.0/draw-io-0.1.0.zip"
         }
       ],
@@ -58,7 +64,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/external-sites-v0.2.0/external-sites-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/external-sites-v0.1.0/external-sites-0.1.0.zip"
         }
       ],
@@ -93,7 +105,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/json-viewer-v0.2.0/json-viewer-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/json-viewer-v0.1.0/json-viewer-0.1.0.zip"
         }
       ],
@@ -128,7 +146,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/progress-bars-v0.2.0/progress-bars-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/progress-bars-v0.1.0/progress-bars-0.1.0.zip"
         }
       ],
@@ -167,7 +191,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.2.0/unzip-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.1.0/unzip-0.1.0.zip"
         }
       ],
@@ -207,10 +237,12 @@
       "versions": [
         {
           "version": "2.0.0",
+          "minOCIS": "6.4.0",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.0.0/mdpresentation-viewer-2.0.0.zip"
         },
         {
           "version": "1.0.0",
+          "minOCIS": "6.2.0",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/1.0.0/mdpresentation-viewer-1.0.0.zip"
         }
       ],
