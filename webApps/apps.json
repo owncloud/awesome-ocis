@@ -198,6 +198,53 @@
           "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-unzip"
         }
       ]
+    },
+    {
+      "id": "com.github.jankaritech.mdpresentation-viewer",
+      "name": "Markdown Presentation Viewer",
+      "subtitle": "Convert and view markdown file (.md) as presentation.",
+      "license": "AGPL-2.0",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.0.0/mdpresentation-viewer-2.0.0.zip"
+        },
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/1.0.0/mdpresentation-viewer-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "JankariTech",
+          "url": "https://jankaritech.com"
+        }
+      ],
+      "tags": ["viewer", "markdown", "presentation", "slides"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/1.png",
+          "caption": "Open in Presentation Viewer in your ownCloud"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/2.png",
+          "caption": "Slide with some lists"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/3.png",
+          "caption": "Slide with code block"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer"
+        }
+      ]
     }
   ]
 }
