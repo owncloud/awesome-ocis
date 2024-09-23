@@ -6,10 +6,11 @@ An opinionated list of awesome [ownCloud Infinite Scale](https://github.com/ownc
 
 > :warning: While we are proud to present you these resources, we can't give any guarantees that they will work for you or that they will be stable. Feel free to open issues in the respective, linked repositories or contribute to the projects in any other way.
 
-If you'd like to contribute to this list, please feel free to make a pull request. 
+If you'd like to contribute to this list, please feel free to make a pull request.
 
 ## Table of Contents
 
+* [Build your own](#build-your-own)
 * [Viewers & Editors](#viewers--editors)
 * [File Actions](#file-actions)
 * [File Sidebar Panels](#file-sidebar-panels)
@@ -22,10 +23,14 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 Please follow the steps provided in our [developer documentation](https://owncloud.dev/services/web/#web-apps) if you want to install any of the
 following apps and extensions. For some of them there are released artifacts, others still need to be built from source code.
 
-> :information_source: The app and extension installation as described in the developer documentation linked above is available in `oCIS v6.0.0` or later. 
+> :information_source: The app and extension installation as described in the developer documentation linked above is available in `oCIS v6.0.0` or later.
+
+### Build your own
+
+If you want to build your own apps and extensions, the place to start is our [app boilerplate](https://github.com/owncloud/web-app-skeleton).
+Reach out to us if you need any help. And don't forget to add your apps and extensions to this document. :-)
 
 ### Viewers & Editors
-
 
 * [3D Model Viewer](https://github.com/saw-jan/web-app-3dmodel-viewer) - View 3D models based on [three.js](https://threejs.org)
 * [Arcade](https://github.com/fschade/ocis-arcade) - Play NES games based on [nes-vue](https://github.com/taiyuuki/nes-vue)
