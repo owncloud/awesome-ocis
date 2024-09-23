@@ -230,6 +230,41 @@
       ]
     },
     {
+      "id": "com.github.owncloud.web-app-skeleton",
+      "name": "Development boilerplate",
+      "subtitle": "Get started with app development for ownCloud Infinite Scale.",
+      "badge": {
+        "label": "For Developers",
+        "color": "danger"
+      },
+      "description": "Download the `skeleton` package and extract it. Open it in your favorite IDE. Read the README.md to get started developing your own app. Everything is set up for you, just start building.",
+      "license": "Apache-2.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "minOCIS": "6.4.0",
+          "url": "https://github.com/owncloud/web-app-skeleton/releases/download/v0.1.0/skeleton-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["development", "example", "extension-system"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-skeleton/cover.png"
+      },
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/owncloud/web-app-skeleton"
+        }
+      ]
+    },
+    {
       "id": "com.github.jankaritech.mdpresentation-viewer",
       "name": "Markdown Presentation Viewer",
       "subtitle": "Convert and view markdown file (.md) as presentation.",
