@@ -241,6 +241,11 @@
       "license": "Apache-2.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "minOCIS": "6.4.0",
+          "url": "https://github.com/owncloud/web-app-skeleton/releases/download/v0.2.0/skeleton-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
           "minOCIS": "6.4.0",
           "url": "https://github.com/owncloud/web-app-skeleton/releases/download/v0.1.0/skeleton-0.1.0.zip"
