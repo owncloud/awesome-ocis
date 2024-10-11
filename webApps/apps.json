@@ -317,6 +317,50 @@
           "url": "https://github.com/JankariTech/web-app-presentation-viewer"
         }
       ]
+    },
+    {
+      "id": "com.github.sawjan.3dviewer",
+      "name": "3D Model Viewer",
+      "subtitle": "View 3D models directly from your ownCloud",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "minOCIS": "6.4.0",
+          "url": "https://github.com/saw-jan/web-app-3dmodel-viewer/releases/download/0.1.0/3dviewer-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sajan Gurung",
+          "url": "https://sajang.com.np"
+        }
+      ],
+      "tags": ["3d", "viewer"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/1.png",
+          "caption": "Open in 3D Viewer in your ownCloud"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/2.png",
+          "caption": "Side view of 3D ship model"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/3.png",
+          "caption": "Top view of 3D ship model"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/saw-jan/web-app-3dmodel-viewer"
+        }
+      ]
     }
   ]
 }
