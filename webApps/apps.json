@@ -361,6 +361,63 @@
           "url": "https://github.com/saw-jan/web-app-3dmodel-viewer"
         }
       ]
+    },
+    {
+      "id": "com.github.owncloud.web-app-dicom-viewer",
+      "name": "DICOM Viewer",
+      "subtitle": "Preview DICOM files (.dcm) – both the medical images and their corresponding metadata.",
+      "description": "Blob sources (`child-src: 'blob'`), data and url connections (`connect-src: 'data:' 'https://unpkg.com/detect-gpu@5.0.38/dist/benchmarks/d-intel.json'`) and unsafe dynamic code evaluation (`script-src: '''unsafe-eval'''`) must all be allowed in CSP.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-app-dicom-viewer/releases/download/1.0.0/dicom-viewer-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ownCloud",
+          "url": "https://owncloud.com"
+        }
+      ],
+      "tags": ["viewer", "dicom", "medical images", "metadata"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/1.png",
+          "caption": "Preview a DICOM image and it's most important meta data."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/2.png",
+          "caption": "The extension allows to zoom, rotate and flip the preview of the DICOM image."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/3.png",
+          "caption": "Inverting the colors of the preview of the DICOM image is also supported."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/4.png",
+          "caption": "Display all corresponding metadata in sidebar."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/5.png",
+          "caption": "Preview a DICOM image and it's most important meta data on a mobile device."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/6.png",
+          "caption": "Display all corresponding metadata on a mobile device."
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/owncloud/web-app-dicom-viewer"
+        }
+      ]
     }
   ]
 }
