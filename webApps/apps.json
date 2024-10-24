@@ -191,6 +191,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.3.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.3.0/unzip-0.3.0.zip"
+        },
+        {
           "version": "0.2.0",
           "minOCIS": "6.2.0",
           "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.2.0/unzip-0.2.0.zip"
