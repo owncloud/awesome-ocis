@@ -371,7 +371,7 @@
       "id": "com.github.owncloud.web-app-dicom-viewer",
       "name": "DICOM Viewer",
       "subtitle": "Preview DICOM files (.dcm) – both the medical images and their corresponding metadata.",
-      "description": "Blob sources (`child-src: 'blob'`), data and url connections (`connect-src: 'data:' 'https://unpkg.com/detect-gpu@5.0.38/dist/benchmarks/d-intel.json'`) and unsafe dynamic code evaluation (`script-src: '''unsafe-eval'''`) must all be allowed in CSP.",
+      "description": "Blob sources (`child-src: 'blob:'`), data and url connections (`connect-src: 'data:' 'https://unpkg.com/detect-gpu@5.0.38/dist/benchmarks/d-intel.json'`) and unsafe dynamic code evaluation (`script-src: '''unsafe-eval'''`) must all be allowed in CSP.",
       "license": "AGPL-3.0",
       "versions": [
         {
