@@ -55,4 +55,8 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 ### Global Progress Bars
 
-* [Nyan Cat](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars) - A JS+CSS only Nyan Cat progress bar for the global loading state. 
+* [Nyan Cat](https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars) - A JS+CSS only Nyan Cat progress bar for the global loading state.
+
+### Authentication
+
+* [App Tokens](https://github.com/mschlachter/ocis-app-tokens) - Enables a simple front-end to create and manage app tokens using the [Auth App Service](https://doc.owncloud.com/ocis/next/deployment/services/s-list/auth-app.html)
