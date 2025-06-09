@@ -423,6 +423,61 @@
           "url": "https://github.com/owncloud/web-app-dicom-viewer"
         }
       ]
+    },
+    {
+      "id": "com.github.mschlachter.ocis-app-tokens",
+      "name": "App Tokens",
+      "subtitle": "Enable UI to create and manage app tokens, which enable third-party apps to connect to Infinite Scale.",
+      "description": "The [Auth App Service](https://doc.owncloud.com/ocis/next/deployment/services/s-list/auth-app.html) must be enabled and configured to use this plugin.",
+      "license": "Apache-2.0",
+      "versions": [
+        {
+          "version": "0.0.3",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.3/ocis-app-tokens-v0.0.3.zip"
+        },
+        {
+          "version": "0.0.2",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.2/ocis-app-tokens-v0.0.2.zip"
+        },
+        {
+          "version": "0.0.1",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.1/ocis-app-tokens-v0.0.1.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Matthew Schlachter",
+          "url": "https://www.schlachter.xyz"
+        }
+      ],
+      "tags": ["authentication", "app-tokens"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/mschlachter/ocis-app-tokens/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/mschlachter/ocis-app-tokens/screenshots/1.png",
+          "caption": "View existing App Tokens and available WebDAV endpoints."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/mschlachter/ocis-app-tokens/screenshots/2.png",
+          "caption": "Create new App Tokens."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/mschlachter/ocis-app-tokens/screenshots/3.png",
+          "caption": "Manage and Delete App Tokens."
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/mschlachter/ocis-app-tokens"
+        }
+      ]
     }
   ]
 }
