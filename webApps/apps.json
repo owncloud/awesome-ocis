@@ -23,7 +23,11 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["editor", "viewer", "diagram"],
+      "tags": [
+        "editor",
+        "viewer",
+        "diagram"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/cover.png"
       },
@@ -80,7 +84,10 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["navigation", "app-switcher"],
+      "tags": [
+        "navigation",
+        "app-switcher"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/external-sites/cover.png"
       },
@@ -121,7 +128,9 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["viewer"],
+      "tags": [
+        "viewer"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/json-viewer/cover.png"
       },
@@ -162,7 +171,10 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["design", "fun"],
+      "tags": [
+        "design",
+        "fun"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/cover.png"
       },
@@ -212,7 +224,10 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["file-management", "file-action"],
+      "tags": [
+        "file-management",
+        "file-action"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/cover.png"
       },
@@ -262,7 +277,11 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["development", "example", "extension-system"],
+      "tags": [
+        "development",
+        "example",
+        "extension-system"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-skeleton/cover.png"
       },
@@ -297,7 +316,12 @@
           "url": "https://jankaritech.com"
         }
       ],
-      "tags": ["viewer", "markdown", "presentation", "slides"],
+      "tags": [
+        "viewer",
+        "markdown",
+        "presentation",
+        "slides"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/cover.png"
       },
@@ -341,7 +365,10 @@
           "url": "https://sajang.com.np"
         }
       ],
-      "tags": ["3d", "viewer"],
+      "tags": [
+        "3d",
+        "viewer"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/cover.png"
       },
@@ -386,7 +413,12 @@
           "url": "https://owncloud.com"
         }
       ],
-      "tags": ["viewer", "dicom", "medical images", "metadata"],
+      "tags": [
+        "viewer",
+        "dicom",
+        "medical images",
+        "metadata"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/cover.png"
       },
@@ -453,7 +485,10 @@
           "url": "https://www.schlachter.xyz"
         }
       ],
-      "tags": ["authentication", "app-tokens"],
+      "tags": [
+        "authentication",
+        "app-tokens"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/mschlachter/ocis-app-tokens/cover.png"
       },
@@ -476,6 +511,47 @@
           "label": "GitHub",
           "icon": "github",
           "url": "https://github.com/mschlachter/ocis-app-tokens"
+        }
+      ]
+    },
+    {
+      "id": "com.github.lukashirt.excalidraw",
+      "name": "Excalidraw",
+      "subtitle": "Excalidraw is a whiteboard tool that lets you easily sketch diagrams.",
+      "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+      "license": "Apache-2.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "minOCIS": "7.3.0",
+          "url": "https://github.com/LukasHirt/oc-excalidraw/releases/download/v0.1.0/excalidraw-v0.1.0.tar.gz"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Lukas Hirt",
+          "url": "https://https://github.com/LukasHirt"
+        }
+      ],
+      "tags": [
+        "editor",
+        "viewer",
+        "diagram"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/lukashirt/excalidraw/cover.jpg"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/lukashirt/excalidraw/screenshots/1.png",
+          "caption": "Create a new diagram on fully interactive whiteboard."
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/LukasHirt/oc-excalidraw"
         }
       ]
     }
