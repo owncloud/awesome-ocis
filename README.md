@@ -41,7 +41,8 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 * [PDF Viewer](https://github.com/owncloud/web/tree/master/packages/web-app-pdf-viewer) - Read PDFs utilizing native browser pdf rendering 
 * [Presentation Viewer](http://github.com/JankariTech/web-app-presentation-viewer) - Render markdown presentations with [reveal.js](https://revealjs.com)
 * [Preview](https://github.com/owncloud/web/tree/master/packages/web-app-preview) - View images, watch videos and listen to audio files
-* [Text Editor](https://github.com/owncloud/web/tree/master/packages/web-app-text-editor) - Edit markdown and plain text file types using [TOAST UI Editor](https://ui.toast.com/tui-editor) 
+* [Text Editor](https://github.com/owncloud/web/tree/master/packages/web-app-text-editor) - Edit markdown and plain text file types using [TOAST UI Editor](https://ui.toast.com/tui-editor)
+* [Excalidraw](https://github.com/LukasHirt/oc-excalidraw/) - Easily sketch diagrams using [Excalidraw whiteboard](https://github.com/excalidraw/excalidraw).
 
 ### File Actions
 
