@@ -474,6 +474,11 @@
           "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.4/ocis-app-tokens-v0.0.4.zip"
         },
         {
+          "version": "0.0.3",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.3/ocis-app-tokens-v0.0.3.zip"
+        },
+        {
           "version": "0.0.2",
           "minOCIS": "6.2.0",
           "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.2/ocis-app-tokens-v0.0.2.zip"
