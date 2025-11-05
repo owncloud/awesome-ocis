@@ -464,6 +464,16 @@
       "license": "Apache-2.0",
       "versions": [
         {
+          "version": "0.1.0",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.1.0/ocis-app-tokens-v0.1.0.zip"
+        },
+        {
+          "version": "0.0.4",
+          "minOCIS": "6.2.0",
+          "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.4/ocis-app-tokens-v0.0.4.zip"
+        },
+        {
           "version": "0.0.3",
           "minOCIS": "6.2.0",
           "url": "https://github.com/mschlachter/ocis-app-tokens/releases/download/v0.0.3/ocis-app-tokens-v0.0.3.zip"
